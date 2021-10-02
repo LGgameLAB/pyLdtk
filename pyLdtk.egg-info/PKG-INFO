@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: pyLdtk
+Version: 0.0.3
+Summary: Just some quick and simple groundwork for working with ldtk in python. VERY EARLY STAGES!
+Home-page: https://github.com/LGgameLAB/pyLdtk
+Author: Luke Gonsalves
+Author-email: lukegonsalves07@gmail.com
+License: MIT
+Description: I have yet to write this
+Keywords: ldtk LDTK python pygame py Tiled tile tileset game
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Internet
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9

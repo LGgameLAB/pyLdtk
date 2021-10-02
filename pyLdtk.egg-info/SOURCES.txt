@@ -1,0 +1,9 @@
+README.md
+setup.py
+pyLdtk/__init__.py
+pyLdtk/main.py
+pyLdtk.egg-info/PKG-INFO
+pyLdtk.egg-info/SOURCES.txt
+pyLdtk.egg-info/dependency_links.txt
+pyLdtk.egg-info/requires.txt
+pyLdtk.egg-info/top_level.txt
